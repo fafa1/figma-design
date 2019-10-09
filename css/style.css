@@ -252,7 +252,6 @@ header a span:hover {
   text-transform: uppercase;
   font-family: 'Fira Sans';
   margin: 15px;
-
 }
 
 .clientes-txt p {
@@ -279,6 +278,8 @@ header a span:hover {
 
 .footer-top {
   padding-top: 60px;
+  padding-bottom: 30px;
+  border-bottom: solid 1px #222222;
 }
 
 .footer-top-list {
@@ -306,7 +307,7 @@ header a span:hover {
 }
 
 .footer-top-text {
-  align-items: flex-start
+  align-items: flex-start;
 }
 
 .footer-top-text input {
@@ -323,7 +324,6 @@ header a span:hover {
   width: 100px;
   height: 42px;
   cursor: pointer;
-  
 }
 
 .footer-botton {
